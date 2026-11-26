@@ -1,0 +1,10 @@
+# Dependencies and local tooling
+node_modules/
+
+# Build and run artefacts
+dist/
+*.log
+
+# OS artefacts
+.DS_Store
+Thumbs.db
